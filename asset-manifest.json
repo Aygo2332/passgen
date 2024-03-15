@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ciphergen/static/css/main.eaa63236.css",
+    "main.js": "/ciphergen/static/js/main.5569b420.js",
+    "index.html": "/ciphergen/index.html",
+    "main.eaa63236.css.map": "/ciphergen/static/css/main.eaa63236.css.map",
+    "main.5569b420.js.map": "/ciphergen/static/js/main.5569b420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa63236.css",
+    "static/js/main.5569b420.js"
+  ]
+}
