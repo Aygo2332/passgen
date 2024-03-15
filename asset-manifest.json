@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ciphergen/static/css/main.eaa63236.css",
-    "main.js": "/ciphergen/static/js/main.5569b420.js",
-    "index.html": "/ciphergen/index.html",
-    "main.eaa63236.css.map": "/ciphergen/static/css/main.eaa63236.css.map",
-    "main.5569b420.js.map": "/ciphergen/static/js/main.5569b420.js.map"
+    "main.css": "/passgen/static/css/main.eaa63236.css",
+    "main.js": "/passgen/static/js/main.5569b420.js",
+    "index.html": "/passgen/index.html",
+    "main.eaa63236.css.map": "/passgen/static/css/main.eaa63236.css.map",
+    "main.5569b420.js.map": "/passgen/static/js/main.5569b420.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa63236.css",
